@@ -1,5 +1,7 @@
-package aop;
+package aop.mains;
 
+import aop.MyConfig;
+import aop.UniLibrary;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Test3 {
